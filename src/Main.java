@@ -4,7 +4,7 @@ public class Main {
     
     if (20 > 18) {
     	  System.out.println("20 is greater than 18");
-        System.out.println("-5 is less than 4");
+        System.out.println("Hello Group 6");
     	}
   }
   
